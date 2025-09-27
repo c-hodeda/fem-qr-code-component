@@ -90,7 +90,6 @@
         transform: skewX(-25deg);
     }
 
-    /* Hover animation: two quick foils */
     a:hover::after {
         animation: foil 3s linear infinite;
         opacity: 1;
